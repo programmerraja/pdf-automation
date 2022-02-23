@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-9"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" xml:lang="en" unique-identifier="BookID">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<dc:creator opf:role='aut'>Tawhida Tanya Evanson</dc:creator>
+<dc:source>9781550655704</dc:source>
+<dc:identifier id="ISBN9781550655704">9781550655704</dc:identifier>
+<dc:publisher>V&#233;hicule Press</dc:publisher>
+<dc:language>en</dc:language>
+<dc:type>Text</dc:type>
+<dc:title>Book of Wings</dc:title>
+<dc:format>186 pages</dc:format>
+<meta name="cover" content="cover-image"/>
+</metadata>
+<manifest>
+<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+<item id="bcover" href="images/bcover.jpg" media-type="image/jpeg"/>
+<item id="bfcover" href="images/bfcover.jpg" media-type="image/jpeg"/>
+<item id="cover-image" href="images/cover.jpg" media-type="image/jpeg"/>
+<item id="f001-01" href="images/f001-01.jpg" media-type="image/jpeg"/>
+<item id="f003-01" href="images/f003-01.jpg" media-type="image/jpeg"/>
+<item id="f005-01" href="images/f005-01.jpg" media-type="image/jpeg"/>
+<item id="f006-01" href="images/f006-01.jpg" media-type="image/jpeg"/>
+<item id="f011-01" href="images/f011-01.jpg" media-type="image/jpeg"/>
+<item id="f023-01" href="images/f023-01.jpg" media-type="image/jpeg"/>
+<item id="f035-01" href="images/f035-01.jpg" media-type="image/jpeg"/>
+<item id="f113-01" href="images/f113-01.jpg" media-type="image/jpeg"/>
+<item id="f161-01" href="images/f161-01.jpg" media-type="image/jpeg"/>
+<item id="f183-01" href="images/f183-01.jpg" media-type="image/jpeg"/>
+<item id="f186-01" href="images/f186-01.jpg" media-type="image/jpeg"/>
+<item id="fcover" href="images/fcover.jpg" media-type="image/jpeg"/>
+<item id="stylesheet" href="styles/stylesheet.css" media-type="text/css"/>
+<item id="cover" href="xhtml/00_cover.html" media-type="application/xhtml+xml"/>
+<item id="fm001" href="xhtml/01_fm001.html" media-type="application/xhtml+xml"/>
+<item id="fm002" href="xhtml/02_fm002.html" media-type="application/xhtml+xml"/>
+<item id="fm003" href="xhtml/03_fm003.html" media-type="application/xhtml+xml"/>
+<item id="fm004" href="xhtml/04_fm004.html" media-type="application/xhtml+xml"/>
+<item id="fm005" href="xhtml/05_fm005.html" media-type="application/xhtml+xml"/>
+<item id="fm006" href="xhtml/06_fm006.html" media-type="application/xhtml+xml"/>
+<item id="fm007" href="xhtml/07_fm007.html" media-type="application/xhtml+xml"/>
+<item id="toc" href="xhtml/08_toc.html" media-type="application/xhtml+xml"/>
+<item id="ch001" href="xhtml/09_ch001.html" media-type="application/xhtml+xml"/>
+<item id="ch002" href="xhtml/10_ch002.html" media-type="application/xhtml+xml"/>
+<item id="ch003" href="xhtml/11_ch003.html" media-type="application/xhtml+xml"/>
+<item id="ch004" href="xhtml/12_ch004.html" media-type="application/xhtml+xml"/>
+<item id="ch005" href="xhtml/13_ch005.html" media-type="application/xhtml+xml"/>
+<item id="bm001" href="xhtml/14_bm001.html" media-type="application/xhtml+xml"/>
+<item id="bm002" href="xhtml/15_bm002.html" media-type="application/xhtml+xml"/>
+<item id="bm003" href="xhtml/16_bm003.html" media-type="application/xhtml+xml"/>
+<item id="bm004" href="xhtml/17_bm004.html" media-type="application/xhtml+xml"/>
+<item id="bm005" href="xhtml/18_bm005.html" media-type="application/xhtml+xml"/>
+<item id="backcover" href="xhtml/19_backcover.html" media-type="application/xhtml+xml"/>
+</manifest>
+<spine toc="ncx">
+<itemref idref="cover" linear="no"/>
+<itemref idref="fm001"/>
+<itemref idref="fm002"/>
+<itemref idref="fm003"/>
+<itemref idref="fm004"/>
+<itemref idref="fm005"/>
+<itemref idref="fm006"/>
+<itemref idref="fm007"/>
+<itemref idref="toc"/>
+<itemref idref="ch001"/>
+<itemref idref="ch002"/>
+<itemref idref="ch003"/>
+<itemref idref="ch004"/>
+<itemref idref="ch005"/>
+<itemref idref="bm001"/>
+<itemref idref="bm002"/>
+<itemref idref="bm003"/>
+<itemref idref="bm004"/>
+<itemref idref="bm005"/>
+<itemref idref="backcover"/>
+</spine>
+<guide>
+<reference type="cover" title="Cover" href="xhtml/00_cover.html"/>
+<reference type="toc" title="Contents" href="xhtml/08_toc.html"/>
+<reference type="text" title="Begin Reading" href="xhtml/09_ch001.html"/>
+</guide>
+</package>
